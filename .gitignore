@@ -1,0 +1,7 @@
+dataset/
+test.jpg
+recognized_output.jpg
+face_model.yml
+labels.json
+__pycache__/
+*.pyc
